@@ -19,19 +19,26 @@ https://github.com/alibaba/ARouter
 
 Android UI ：
 
-  状态栏
+状态栏
 
-    https://github.com/gyf-dev/ImmersionBar
-    https://github.com/laobie/StatusBarUtil
+https://github.com/gyf-dev/ImmersionBar
+
+https://github.com/laobie/StatusBarUtil
     
   
-  webview浏览器框架
+webview浏览器框架
  
-    https://github.com/Justson/AgentWeb  
-    
-    
- 带标签的imageview：
+https://github.com/Justson/AgentWeb  
+   
+带标签的imageview：
  
-    https://github.com/wujingchao/SimpleTagImageView
-    
-    
+https://github.com/wujingchao/SimpleTagImageView
+
+360°全景图VR
+
+http://www.jcodecraeer.com/a/anzhuokaifa/2017/0927/8559.html
+
+https://github.com/CN-ZPH/Three360panorama
+
+https://github.com/gjiazhe/PanoramaImageView
+    
