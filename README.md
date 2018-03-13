@@ -35,6 +35,7 @@ https://github.com/Justson/AgentWeb
 https://github.com/wujingchao/SimpleTagImageView
 
 videoview万能适配 横竖屏
+
 http://blog.csdn.net/andoop/article/details/71552537
 
 360°全景图VR
